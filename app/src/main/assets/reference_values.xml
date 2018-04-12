@@ -2,49 +2,49 @@
 <ReferenceValues>
     <ShoppingItemTypes>
         <ShoppingItemType Code="FRUIT" SubCode="NA">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="FISH">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="PORK">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="CHKEN">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="BEEF">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="LAMB">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="KNGRO">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code="MEAT" SubCode="OTHER">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "VGTBL" SubCode="NA">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="CLTNG">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="HSHLD">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="GRDEN">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="OUTDR">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="PRSNL">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
         <ShoppingItemType Code = "GENRL" SubCode="OTHER">
-            <Description></Description>
+            <!--<Description></Description>-->
         </ShoppingItemType>
     </ShoppingItemTypes>
 </ReferenceValues>

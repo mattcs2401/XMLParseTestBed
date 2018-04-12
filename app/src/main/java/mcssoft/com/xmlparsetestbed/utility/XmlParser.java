@@ -51,19 +51,13 @@ public class XmlParser {
         List entries = new ArrayList();
 
         parser.require(XmlPullParser.START_TAG, nameSpace, "ReferenceValues");
-//        String date = parser.getAttributeValue(nameSpace,"RaceDayDate");
         while (parser.next() != XmlPullParser.END_DOCUMENT) {
             if (parser.getEventType() != XmlPullParser.START_TAG) {
                 continue;
             }
             String name = parser.getName();
-            if (name.equals("ShoppingItemTypes")) {
-                String bp = "";
-            } else if(name.equals("ShoppingItemType")) {
+            if(name.equals("ShoppingItemType")) {
                 entries.add(readShoppingItemType());
-            }
-            else {
-                skip();
             }
         }
         return entries;
